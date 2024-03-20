@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello!
-Привет, Артём!
-=======
-hello, World!
->>>>>>> 33d11ab0dff5cd13707cbb7ad8621d768d8ca661
+Привет, Артём, from Valerii!
